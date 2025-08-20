@@ -38,7 +38,7 @@
 
 作者
 ----
-- zenghz@uestc.edu.cn
+- zenghz@uestc.edu.cn(提供原始代码)
 - Corleone
 
 ---
