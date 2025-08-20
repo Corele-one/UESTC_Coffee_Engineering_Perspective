@@ -1,0 +1,2 @@
+# UESTC_Coffee_Engineering_Perspective
+电子科技大学新生研讨课——电子工程师眼中的咖啡，光谱仪项目相关代码
